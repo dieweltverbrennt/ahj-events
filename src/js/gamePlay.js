@@ -94,7 +94,7 @@ export default class GamePlay {
     if (this.misses === 5) {
       clearInterval(this.interval);
       this.removeChar();
-      alert('You loss!');
+      alert(`You loss! Your score: ${this.points}`);
       this.newGame();
     }
   }
