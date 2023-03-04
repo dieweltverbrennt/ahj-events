@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kussbv5h8n40pwbf?svg=true)](https://ci.appveyor.com/project/dieweltverbrennt/ahj-events)
