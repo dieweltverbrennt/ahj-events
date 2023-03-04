@@ -71,7 +71,6 @@ export default class GamePlay {
       if (this.counter > this.points) {
         this.misses += 1;
       }
-      console.log(this.counter, this.points, this.misses)
       this.checkDefeat();
     }, 1000);
   }
